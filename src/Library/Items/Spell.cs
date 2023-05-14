@@ -1,21 +1,9 @@
 namespace RoleplayGame
 {
-    public class Spell
+    public class Spell : Item
     {
-        public int AttackValue
+        public Spell(int attack, int defense) : base(attack, defense)
         {
-            get
-            {
-                return 70;
-            }
-        }
-
-        public int DefenseValue
-        {
-            get
-            {
-                return 70;
-            }
         }
     }
 }
