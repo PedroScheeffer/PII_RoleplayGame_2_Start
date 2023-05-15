@@ -46,6 +46,7 @@ Existen muchos elementos, y podemos encontrar algunas cosas en común:
 
 Construyan el diagrama de clases de la solución,agregando las abstracciones que identifiquen, dada
 la descripción de elementos y personajes.
+![Untitled-2023-05-15-2030](https://github.com/PedroScheeffer/PII_RoleplayGame_2_Start/assets/127800652/21337303-dfcf-40c7-9ce8-ecf83dd1c34d)
 
 ## Parte 1: Refactoring
 
